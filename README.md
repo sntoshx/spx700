@@ -6,7 +6,6 @@
 - Slightly inclined towards web technologies.
 - Years of experience with Photoshop.
 - Pianist, Calligrapher, Illustrator; recreationally!
-
 &nbsp;
 
 
