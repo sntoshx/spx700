@@ -1,5 +1,4 @@
-### Hey, I'm
-## [Santosh Pandey.][website]
+### Hey there, I'm [Santosh Pandey.][website]
 
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
@@ -9,13 +8,7 @@
 - &nbsp;⏳ Pianist, Calligrapher, Illustrator; recreationally!
 
 
-[<img align="left" alt="esantosh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] &nbsp;
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp;
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp;
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] &nbsp;
+[<img align="left" alt="esantosh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]   [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 &nbsp;
 <br/>
