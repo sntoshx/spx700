@@ -3,7 +3,7 @@
 # Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
 - 💻 I love development, independent of platforms and languages.
--  Slightly inclined towards web technologies.
+- 🌐 Slightly inclined towards web technologies.
 - ⚡ Years of exeperience with Photoshop.
 - &nbsp;⏳ Pianist, Calligrapher, Illustrator; recreationally!
 
