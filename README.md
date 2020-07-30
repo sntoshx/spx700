@@ -1,15 +1,14 @@
-### Hey there, I'm [Santosh Pandey.][website]
+### Hey there! I'm [Santosh Pandey.][website]
 
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
 - I love development, independent of platforms and languages.
 - Inclined towards data science.
-- I love Windows Vista; I don't know, why though.
-Recreationally-
-- I play piano.
-- Enjoy calligraphy.
-- Pendown illustrations.
-
+- I love Windows Vista; I don't know, why though.<br/>
+And recreationally-
+🎹 i play piano,
+✍🏻 enjoy calligraphy and
+💻 p`endown illustrations.
 &nbsp;
 ### Connect to me:
 [<img align="left" alt="esantosh.com" width="19px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]   [<img align="left"  width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="left" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [<img align="left" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
