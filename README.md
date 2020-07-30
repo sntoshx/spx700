@@ -6,9 +6,10 @@
 - Slightly inclined towards web technologies.
 - Years of experience with Photoshop.
 - Pianist, Calligrapher, Illustrator; recreationally!
+
 &nbsp;
 &nbsp;
-[<img align="left" alt="esantosh.com" width="19px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]   [<img align="left"  width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="left" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [<img align="left" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="center" alt="esantosh.com" width="19px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]   [<img align="center"  width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="center" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [<img align="center" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 &nbsp;
 <br/>
