@@ -10,7 +10,7 @@
 &nbsp;
 &nbsp;
 ### Connect to me:
-[<img align="left" alt="esantosh.com" width="19px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]   [<img align="center"  width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="center" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [<img align="right" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="esantosh.com" width="19px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]   [<img align="left"  width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  [<img align="left" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   [<img align="left" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 &nbsp;
 <br/>
