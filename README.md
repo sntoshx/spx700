@@ -2,10 +2,10 @@
 
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
-- I love development, independent of platforms and languages.
-- Inclined towards data science.
-- I love Windows Vista; I don't know, why though.<br/>
-And recreationally-<br/>
+ I love development, independent of platforms and languages.<br/>
+ Inclined towards data science.<br/>
+ I love Windows Vista; I don't know, why though.<br/>
+ And recreationally-<br/>
 🎹 i play piano,<br/>
 ✍🏻 enjoy calligraphy and<br/>
 💻 pendown illustrations.<br/>
