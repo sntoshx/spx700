@@ -2,12 +2,10 @@
 
 # Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
-- 💻 I love development, independent of platforms and languages.
-- 🌐 Slightly inclined towards web technologies.
-- ⚡ Years of exeperience with Photoshop.
-- &nbsp;⏳ Pianist, Calligrapher, Illustrator; recreationally!
-
-  &nbsp;
+### - 💻 I love development, independent of platforms and languages.
+### - 🌐 Slightly inclined towards web technologies.
+### - ⚡ Years of experience with Photoshop.
+### - &nbsp;⏳ Pianist, Calligrapher, Illustrator; recreationally!
 
 ## Connect with me:
 
@@ -21,13 +19,6 @@
 
 &nbsp;
 <br/>
-<br/>
-
-
-
-
-<br/>
----
 
 [website]: https://esantosh.com
 [twitter]: https://twitter.com/spx_07
