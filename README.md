@@ -1,11 +1,11 @@
-## Hello 👋, I am [Santosh Pandey][website].
+## Hey 👋 <br/>I am [Santosh Pandey][website].
 
 # Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
-### - 💻 I love development, independent of platforms and languages.
-### - 🌐 Slightly inclined towards web technologies.
-### - ⚡ Years of experience with Photoshop.
-### - &nbsp;⏳ Pianist, Calligrapher, Illustrator; recreationally!
+#### - 💻 I love development, independent of platforms and languages.
+#### - 🌐 Slightly inclined towards web technologies.
+#### - ⚡ Years of experience with Photoshop.
+#### - &nbsp;⏳ Pianist, Calligrapher, Illustrator; recreationally!
 
 ## Connect with me:
 
