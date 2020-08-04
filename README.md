@@ -17,6 +17,6 @@
 <br/>
 
 [website]: https://esantosh.com
-[twitter]: https://twitter.com/spx_07
-[instagram]: https://instagram.com/spx_07
-[linkedin]: https://linkedin.com/in/yednaphsotnas
+[twitter]: https://twitter.com/spx700
+[instagram]: https://instagram.com/spx700
+[linkedin]: https://linkedin.com/in/spx700
