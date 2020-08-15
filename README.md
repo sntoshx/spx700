@@ -3,11 +3,11 @@
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
 
- ➼ I love development, independent of platforms and languages.<br/>
+ ➼ I develop, independent of platforms and languages.<br/>
  ➼ Inclined towards data science.<br/>
- ➼ I love Windows Vista; I don't know, why though.<br/>
+ ➼ I love Windows Longhorn; *very much.*<br/>
  **And recreationally-**<br/>
- ➼ 🎹 i play piano,<br/>
+ ➼ 🎹 I play piano,<br/>
  ➼ ✍🏻 enjoy calligraphy and<br/>
  ➼ 💻 pendown illustrations.
 
