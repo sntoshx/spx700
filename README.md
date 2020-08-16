@@ -5,7 +5,7 @@
 
  ➼ I develop; independent of platforms and languages.<br/>
  ➼ Inclined towards data science.<br/>
- ➼ I love Windows Longhorn; *very much.*<br/>
+ ➼ I love Windows Longhorn; very much.<br/>
  **And recreationally-**<br/>
  ➼ 🎹 I play piano,<br/>
  ➼ ✍🏻 enjoy calligraphy and<br/>
