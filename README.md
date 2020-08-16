@@ -3,7 +3,7 @@
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
 
- ➼ I develop, independent of platforms and languages.<br/>
+ ➼ I develop; independent of platforms and languages.<br/>
  ➼ Inclined towards data science.<br/>
  ➼ I love Windows Longhorn; *very much.*<br/>
  **And recreationally-**<br/>
