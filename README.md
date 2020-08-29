@@ -7,8 +7,7 @@
  ➼ Inclined towards data science.<br/>
  ➼ I love Windows Longhorn; very much.<br/>
  **And recreationally-**<br/>
- ➼ 🎹 I play piano,<br/>
- ➼ ✍🏻 enjoy calligraphy and<br/>
+ ➼ 🎹 I play piano and<br/>
  ➼ 💻 pendown illustrations.
 
 ____
