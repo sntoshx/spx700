@@ -1,4 +1,4 @@
-### Hey there! I'm [Santosh Pandey.][website]	### Hey there! I'm [Santosh Pandey.][website]
+### Hey there! I'm [Santosh Pandey.][website]
  	 
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist	## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
  ➼ I develop; independent of platforms and languages.<br/>	 ➼ I develop; independent of platforms and languages.<br/>
