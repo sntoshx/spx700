@@ -1,4 +1,4 @@
-### Hey there! I'm [Santosh Pandey.][website]
+### Hey there! I'm [Santosh Pandey.]["https://esantosh.com"]
  
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
  - Windows Longhorn is ❤
@@ -6,4 +6,4 @@
  - Photoshopping since a decade now 💻<br/>
 ____
 
-website = https://esantosh.com
+
