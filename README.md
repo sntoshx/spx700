@@ -6,4 +6,4 @@
  - Photoshopping since a decade now 💻<br/>
 ____
 
-[website] = https://esantosh.com
+website = https://esantosh.com
