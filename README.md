@@ -5,7 +5,8 @@
 
  -Windows Longhorn is ❤ <br>
  -C++, Javascript, CSS and Golang 😌<br>
- -Photoshopping since a decade now 💻
+ -Photoshopping since a decade now 💻 <br>
+ -Average typing speed 103WPM ⚡
 
 ____
 
