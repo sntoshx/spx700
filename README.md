@@ -3,8 +3,8 @@
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
 
- -Windows Longhorn is ❤
- -C++, Javascript, CSS and Golang 😌
+ -Windows Longhorn is ❤ <br>
+ -C++, Javascript, CSS and Golang 😌<br>
  -Photoshopping since a decade now 💻
 
 ____
