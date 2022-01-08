@@ -3,8 +3,7 @@
 ## Coder &nbsp;|&nbsp; Developer &nbsp;|&nbsp; Graphic artist
 
 
- -Windows Longhorn is ❤ <br>
- -C++, Javascript and Python. 😌<br>
+ -Javascript is 💖<br>
  -Photoshopping since a decade now 💻 <br>
 
 ____
